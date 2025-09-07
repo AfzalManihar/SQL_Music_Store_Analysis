@@ -13,7 +13,7 @@ This project is beginner-friendly and helps in strengthening SQL query writing s
 - Tool: PgAdmin 4  
 ## Schema - Music Store Database  
 <img src="https://github.com/AfzalManihar/SQL_Music_Store_Analysis/raw/main/MusicDatabaseSchema.png" 
-alt="Music Store Schema" width="450" height="300" align="right"/>
+alt="Music Store Schema"/>
 
 ---
 
